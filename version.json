@@ -1,6 +1,6 @@
 {
-  "versionCode": 20,
-  "versionName": "1.0.0+Beta 319",
+  "versionCode": 22,
+  "versionName": "1.0.0-Beta3+22",
   "apkUrl": "https://github.com/raaifr/dolphin-release/releases/latest/download/app-arm64-v8a-release.apk",
-  "changelog": "Added Auto Update and Change tracking"
+  "changelog": "Build 22 Nightly - Schedule Check Diagnostics"
 }
