@@ -1,6 +1,6 @@
 {
-  "versionCode": 23,
-  "versionName": "1.0.0-Beta3+23-Canary",
+  "versionCode": 24,
+  "versionName": "1.0.0-Beta3+24-Canary",
   "apkUrl": "https://github.com/raaifr/dolphin-release/releases/latest/download/app-arm64-v8a-release.apk",
-  "changelog": "Build 23-Canary - Additional Diagnostics"
+  "changelog": "Build 24-Canary - Experimental fixes"
 }
